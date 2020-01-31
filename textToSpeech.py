@@ -9,8 +9,6 @@ print("""\033[1m\033[91m
        | |_| | | __/ __| '_ \  | |_| | |/ __| |/ / _ \ '__|
        |  _  | | || (__| | | | |  _  | | (__|   <  __/ |
        |_| |_|_|\__\___|_| |_| |_| |_|_|\___|_|\_\___|_|   """)
-
-#loc = input("\n\n\t\tEnter your file location : ")
 mytext = ""
 language = 'en'
 with open("text.txt","r") as file:
