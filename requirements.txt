@@ -1,4 +1,2 @@
-gTTs
+gTTS==2.1.1
 pyglet==1.3.2
-
-https://avbin.github.io/AVbin/Download.html
