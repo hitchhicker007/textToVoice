@@ -7,7 +7,7 @@ python script that convert text to voice. this script is use gTTs (Google text t
 python3
 
 ### USAGE:
-- Download and install [AVbin](https://avbin.github.io/AVbin/Download.)
+- Download and install [AVbin](https://avbin.github.io/AVbin/Download)
 
 ```
 git clone https://github.com/hitchhicker007/textToVoice.git
